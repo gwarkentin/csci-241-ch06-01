@@ -1,4 +1,4 @@
-# csci-241-ch06-01
+# csci-241-ch06-1
 Color_Matrix2
 
 
